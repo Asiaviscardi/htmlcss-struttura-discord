@@ -36,10 +36,40 @@ body{
 .presentazione{
     background-color: orange;
     height: 400px;
-    width: 1000px;
+    width: 750px;
     justify-content: center;
     align-items: center;
     margin-top: 50px;
 }
+
+/*main*/
+
+section{
+    padding: 50px 0px;
+    justify-content: center;
+    background-color: aquamarine;
+
+}
+
+.blocco{
+    height: 500px;
+    width: 1000px;
+    background-color: blueviolet;
+    display: flex;
+}
+
+.grande{
+    width: 60%;
+    height: 100%;
+    background-color: red;
+}
+
+.piccolo{
+    width: 40%;
+    height: 100%;
+    background-color: brown;
+}
+
+
 
 
