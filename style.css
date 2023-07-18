@@ -70,6 +70,39 @@ section{
     background-color: brown;
 }
 
+/*Footer*/
 
+.prova{
+    padding-top: 15px;
+    background-color: green;
+    height: 550px;
+    width: 100%;
+    justify-content: center;
+}
 
+.principale{
+    width: 40%;
+    height: 100%;
+    background-color: pink;
+}
 
+.riga{
+    width: 15%;
+    height: 100%;
+    background-color: coral;
+    border: 1px solid black;
+}
+
+.finale{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.conclusione{
+    background-color: violet;
+    width: 1000px;
+    height: 100%;
+}
