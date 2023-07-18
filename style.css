@@ -27,4 +27,19 @@ body{
     display: flex;
 }
 
+.sfondo{
+    background-color:#255ee9;
+    height: 500px;
+    justify-content: center;
+}
+
+.presentazione{
+    background-color: orange;
+    height: 400px;
+    width: 1000px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
 
